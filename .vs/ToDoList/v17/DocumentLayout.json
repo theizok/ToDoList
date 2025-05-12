@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\isaac\\source\\repos\\ToDoList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A853D17-5911-C56B-FB2E-4537E99363AE}|ToDoList.FrontEnd\\ToDoList.FrontEnd.esproj|c:\\users\\isaac\\source\\repos\\todolist\\todolist.frontend\\src\\app\\add-form\\add-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{6A853D17-5911-C56B-FB2E-4537E99363AE}|ToDoList.FrontEnd\\ToDoList.FrontEnd.esproj|solutionrelative:todolist.frontend\\src\\app\\add-form\\add-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isaac\\source\\repos\\ToDoList\\ToDoList.FrontEnd\\src\\app\\add-form\\add-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDoList.FrontEnd\\src\\app\\add-form\\add-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A853D17-5911-C56B-FB2E-4537E99363AE}|ToDoList.FrontEnd\\ToDoList.FrontEnd.esproj|c:\\users\\isaac\\source\\repos\\todolist\\todolist.frontend\\src\\app\\add-form\\add-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A853D17-5911-C56B-FB2E-4537E99363AE}|ToDoList.FrontEnd\\ToDoList.FrontEnd.esproj|solutionrelative:todolist.frontend\\src\\app\\add-form\\add-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isaac\\source\\repos\\ToDoList\\ToDoList.FrontEnd\\src\\app\\add-form\\add-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDoList.FrontEnd\\src\\app\\add-form\\add-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "ToDoList.FrontEnd\\src\\app\\add-form\\add-form.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-12T17:16:52.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T17:16:52.526Z"
             },
             {
               "$type": "Document",
