@@ -34,7 +34,7 @@ export class AddFormComponent {
 
     this.apiService.add(assignment).subscribe(
       (response: any) => {
-        this.router.navigate(['/tareas']);
+        this.router.navigate(['/home/tareas']);
       },
       (error) => {
         console.error('Error al crear tarea:', error);
