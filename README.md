@@ -1,21 +1,23 @@
-# ToDoList
-📦 Instalación y ejecución
-Clona el repositorio:
+# 🗒️ ToDoList
 
-bash
-Copiar
-Editar
+Aplicación web para la gestión de tareas.
+
+
+
+## 🚀 Instalación y ejecución
+
+```bash
+# 1. Clona el repositorio
 git clone https://github.com/theizok/ToDoList.git
-Abre la solución ToDoList.sln en Visual Studio.
 
-Restaura los paquetes NuGet y compila la solución.
+# 2. Abre la solución en Visual Studio
+#    Archivo: ToDoList.sln
 
-Configura la cadena de conexión a la base de datos en el archivo appsettings.json del proyecto ToDo.API.
+# 3. Restaura los paquetes NuGet y compila la solución
 
-Ejecuta las migraciones para crear la base de datos:
+# 4. Configura la conexión a base de datos en ToDo.API/appsettings.json
 
-bash
-Copiar
-Editar
+# 5. Aplica las migraciones (si no está creada la BD)
 dotnet ef database update --project ToDo.API
-Establece ToDo.API y ToDoList.FrontEnd como proyectos de inicio y ejecuta la solución.
+
+# 6. Ejecuta los proyectos ToDo.API y ToDoList.FrontEnd
