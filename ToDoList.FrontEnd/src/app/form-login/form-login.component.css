@@ -1,0 +1,29 @@
+.container-sm {
+  margin-top:25vh;
+  margin-left:30vw;
+  max-width: 35vw;
+  max-height:100vh;
+  border:1px solid black;
+  border-radius: 10px;
+  padding-bottom:3vh;
+}
+.container-sm h2 {
+  margin-left:13vw;
+  margin-top:1vh;
+}
+.container-sm label {
+  margin-left:10vh;
+}
+.container-sm input {
+  margin-left:10vh;
+  max-width:20vw;
+}
+.container-sm button {
+  margin-top:3vh;
+  margin-bottom:2vh;
+  margin-left:13.5vw;
+}
+a {
+  margin-left:5vw;
+  color:black;
+}

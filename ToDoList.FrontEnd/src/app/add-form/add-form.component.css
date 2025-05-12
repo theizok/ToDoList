@@ -1,0 +1,15 @@
+.container-md {
+  margin-left:1vw;
+}
+
+.container-md input{
+  max-width:25vw;
+}
+
+.container-md textarea {
+  max-width:25vw;
+}
+
+.container-md button {
+  width:15vw;
+}

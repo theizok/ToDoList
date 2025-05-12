@@ -1,0 +1,55 @@
+<div class="container my-4">
+  <h2 class="mb-4 text-center">Tareas</h2>
+
+  <div class="row">
+    <div class="col-md-6 col-lg-4 mb-4" *ngFor="let assignment of dataList">
+      <div class="card shadow-sm border-0 rounded-4 h-100 position-relative">
+        <!-- Botón X para eliminar -->
+        <button class="btn btn-sm btn-outline-danger position-absolute top-0 end-0 m-2 rounded-circle"
+                (click)="delete(assignment.id)" aria-label="Eliminar tarea">
+          &times;
+        </button>
+
+        <div class="card-header bg-primary text-white rounded-top-4">
+          {{ assignment.name }}
+        </div>
+
+        <div class="card-body">
+          <h5 class="card-title">
+            Estado:
+            <span [ngClass]="{
+              'text-success': assignment.state,
+              'text-warning': !assignment.state
+            }">
+              {{ getState(assignment.state) }}
+            </span>
+          </h5>
+
+          <p class="card-text">
+            {{ assignment.description || 'Sin descripción disponible.' }}
+          </p>
+
+          <!-- Fecha de creación -->
+          <p class="text-muted mb-1">
+            <strong>Creada:</strong>
+            {{ assignment.created | date:'short' }}
+          </p>
+
+          <!-- Fecha de finalización -->
+          <p class="text-muted" *ngIf="assignment.completedAt">
+            <strong>Finalizada:</strong>
+            {{ assignment.finished | date:'short' }}
+          </p>
+        </div>
+
+        <div class="card-footer bg-transparent border-0 d-flex justify-content-end">
+          <button class="btn btn-success btn-sm"
+                  [disabled]="assignment.state"
+                  (click)="endAssignment(assignment,assignment.id)">
+            Finalizar tarea
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

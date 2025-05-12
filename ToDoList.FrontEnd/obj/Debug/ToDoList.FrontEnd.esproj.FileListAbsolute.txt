@@ -1,0 +1,1 @@
+C:\Users\isaac\source\repos\ToDoList\ToDoList.FrontEnd\obj\Debug\ToDoList.FrontEnd.esproj.CoreCompileInputs.cache

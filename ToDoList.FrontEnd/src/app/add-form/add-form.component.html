@@ -1,0 +1,16 @@
+<div class="container-md">
+  <h1>Añadir tareas</h1>
+  <form (ngSubmit)="add()">
+    <div class="mb-3">
+      <label class="form-label">Nombre de la tarea</label>
+      <input class="form-control" type="text" name="name" [(ngModel)]="name"/>
+    </div>
+    <div class="mb-3">
+      <label class="form-label">Descripcion</label>
+      <textarea class="form-control" name="description" [(ngModel)]="description"></textarea>
+    </div>
+    <div class="mb-3">
+      <button class="btn btn-success" type="submit">Añadir</button>
+    </div>
+  </form>
+</div>

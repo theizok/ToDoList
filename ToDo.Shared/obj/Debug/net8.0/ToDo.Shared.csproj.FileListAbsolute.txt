@@ -1,0 +1,13 @@
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\bin\Debug\net8.0\ToDo.Shared.deps.json
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\bin\Debug\net8.0\ToDo.Shared.dll
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\bin\Debug\net8.0\ToDo.Shared.pdb
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\obj\Debug\net8.0\ToDo.Shared.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\obj\Debug\net8.0\ToDo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\obj\Debug\net8.0\ToDo.Shared.AssemblyInfoInputs.cache
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\obj\Debug\net8.0\ToDo.Shared.AssemblyInfo.cs
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\obj\Debug\net8.0\ToDo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\obj\Debug\net8.0\ToDo.Shared.sourcelink.json
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\obj\Debug\net8.0\ToDo.Shared.dll
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\obj\Debug\net8.0\refint\ToDo.Shared.dll
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\obj\Debug\net8.0\ToDo.Shared.pdb
+C:\Users\isaac\source\repos\ToDoList\ToDo.Shared\obj\Debug\net8.0\ref\ToDo.Shared.dll
